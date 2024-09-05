@@ -1,0 +1,37 @@
+body {
+    background: rgb(131, 58, 180);
+    background: linear-gradient(90deg, rgba(131, 58, 180, 1) 0%, rgba(255, 255, 255, 1) 50%, rgba(252, 176, 69, 1) 100%);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: xxx-large;
+    padding: 100px;
+    color: black;
+
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h2 {
+    text-align: center;
+}
+
+p {
+    line-height: 80px;
+    font-size: 80px;
+    text-align: justify;
+}
+
+#txt01 {
+    color: rgb(255, 255, 255);
+    text-align: right;
+}
+
+#txt02 {
+    background: rgb(131, 58, 180);
+    background: linear-gradient(90deg, rgba(131, 58, 180, 1) 0%, rgba(255, 255, 255, 1) 50%, rgba(252, 176, 69, 1) 100%);
+    text-transform: uppercase;
+}
+
+img {
+    height: 320px;
+    width: 320px;
+    border-radius: 320px;
+}
